@@ -4,7 +4,7 @@ languages: ruby
 level: 1
 type: intro
 ---
-### Unit Goals
+### Students Will Be Able To...
 * Explain what **object orientation** is and why it's used
 * **Create a class** with attributes and methods and **create instances** of that class
 * **Use reader and writer methods** to access and modify data
