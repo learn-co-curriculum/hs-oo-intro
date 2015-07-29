@@ -1,9 +1,4 @@
----
-tags: ruby, kids, oo, oop, object-orientation
-languages: ruby
-level: 1
-type: intro
----
+
 ### Students Will Be Able To...
 * Explain what **object orientation** is and why it's used
 * **Create a class** with attributes and methods and **create instances** of that class
